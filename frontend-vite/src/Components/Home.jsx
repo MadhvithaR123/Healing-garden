@@ -8,6 +8,7 @@ export default function Home() {
           <p>Join our programs to promote mental wellness and creativity.</p>
         </section>
         <p>hello madhvitha</p>
+        <h>hello world</h>
   
         <section className="categories">
           <h2>Our Workshops</h2>
