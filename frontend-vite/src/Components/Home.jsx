@@ -7,6 +7,7 @@ export default function Home() {
           <h1>Therapeutic Workshops for Everyone</h1>
           <p>Join our programs to promote mental wellness and creativity.</p>
         </section>
+        <p>hello madhvitha</p>
   
         <section className="categories">
           <h2>Our Workshops</h2>
